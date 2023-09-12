@@ -17,4 +17,13 @@ _Melhoria 1_, _melhoria 2_
 * JavaScript
 * PHP
 * MySql
-  
+
+### Funcionalidade a desenvolver:
+  1. Área de membros
+     1. Login diferente para grupos de clientes
+     2. Desconto especial para grupos de clientes
+  3. Integração com outros pagamentos
+  4. Sistema de bônus primeira compra
+
+
+     
