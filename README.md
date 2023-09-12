@@ -28,15 +28,26 @@ _Melhoria 1_, _melhoria 2_
 ![title_schema_inspector](https://github.com/altlfkb/ecommerce_empresa_x/assets/116196410/1410cdb4-87c9-4ed5-8c80-b056ff10da9e) 
 
 ####### Links:
+
 [Google](https://www.google.com/)
-Links com imagem: 
+
+###Links com imagem: 
+
 [![Link Google](https://github.com/altlfkb/ecommerce_empresa_x/assets/116196410/1e41890b-a9ed-4e29-91a5-f30bfe5e1f18)](https://www.google.com)
+
+### Lista de tarefas a fazer:
+- [x] Área de membros
+- [ ] Integração com outros pagamentos
+- [ ] sistema de bônus
+- [x] css do rodapé
+
 
 ## Código da função soma 
 ```javascript
 function soma(a, b) {
 return a + b;
 }
+
 
 
 
